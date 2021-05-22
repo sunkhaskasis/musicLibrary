@@ -24,8 +24,8 @@ songs:
     title: "Lively Cyber Detective"
     path: "Lively Cyber Detective.brstm"
     type: battle
-  - id: the_ending_has_lots_of_coffee
-    title: "The Ending has Lots of Coffee"
+  - id: a_curtain_call_with_lots_of_coffee
+    title: "A Curtain Call with Lots of Coffee"
     path: "The Ending has Lots of Coffee.brstm"
     type: result
   - id: tranquil_city
