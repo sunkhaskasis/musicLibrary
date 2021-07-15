@@ -5,25 +5,25 @@ series: okami
 year: 2006
 platform: "PS2"
 songs:
-  - id: demon_lord_ninetales
-    title: "Demon Lord Nine-Tail's Extermination"
+  - id: battle_of_ninetails
+    title: "Battle of Ninetails"
     path: "Demon Lord Nine-Tail's Extermination.brstm"
     type: battle
-  - id: the_emperor_of_eternal_darkness
+  - id: yami_okami
     path: "The Emperor of Eternal Darkness.brstm"
-    title: "The Emperor of Eternal Darkness"
+    title: "Yami"
     type: warning
   - id: reset_thank_you_version
     path: "''Reset'' ~''Thank You'' Version~.brstm"
-    title: "Reset ~ 'Thank you' Version ~"
+    title: "Reset ~ (''Thank You'' Version)"
     type: break
-  - id: the_sun_rises
+  - id: rising_sun_okami
     path: "The Sun Rises.brstm"
-    title: "The Sun Rises"
+    title: "Rising Sun"
     type: betting
-  - id: shinshuu_plains
+  - id: shinshu_field
     path: "Shinshuu Plains.brstm"
-    title: "Shinshuu Plains"
+    title: "Shinshu Field"
     type: betting
   - id: brave_warrior_oki
     path: "Okami - Brave Warrior Oki.brstm"
@@ -69,13 +69,13 @@ songs:
     path: "Tama's Theme.brstm"
     title: "Tama's Theme"
     type: betting
-  - id: impatient_susanoo
+  - id: susano_is_ready
     path: "Impatient Susano-o.brstm"
-    title: "Impatient Susano-o"
+    title: "Susano is Ready
     type: warning
-  - id: cherry_blossom_storm
+  - id: cherry_blossom_shower
     path: "Cherry Blossom Storm.brstm"
-    title: "Cherry Blossom Storm"
+    title: "Cherry Blossom Shower"
     type: betting
   - id: kamui_of_the_northern_lands
     path: "Kamui of the Northern Lands.brstm"
@@ -91,32 +91,32 @@ songs:
     title: "Wep'keer"
     ends: 3:00
     type: betting
-  - id: helping_with_the_fishing
+  - id: fishing_assistance
     path: "Helping with the Fishing.brstm"
-    title: "Helping with the Fishing"
+    title: "Fishing Assistance"
     type: betting
-  - id: shinto_priest_mikazuki
+  - id: mikas_theme
     path: "Shinto Priest Mikazuki's Theme.brstm"
-    title: "Shinto Priest Mikazuki's Theme"
+    title: "Mika's Theme"
     type: break
-  - id: seiankyou_commoners
+  - id: seian_commoners
     path: "Seiankyou Commoners' Quarter.brstm"
-    title: "Seiankyou Commoners' Quarter"
+    title: "Sei-an City (Commoners' Quarter)"
     type: betting
-  - id: giving_susano_a_ride
+  - id: susano_goes_for_a_ride
     path: "Giving Susano-o a Ride.brstm"
-    title: "Giving Susano-o a Ride"
+    title: "Susano Goes for a Ride"
     type: betting
-  - id: red_helmets_extermination
+  - id: crimson_helm_begone
     path: "Red Helmet's Extermination.brstm"
-    title: "Red Helmet's Extermination"
+    title: "Crimson Helm, Begone!"
     type: battle
-  - id: a_great_spirit_lies_in_wait
-    title: "A Great Spirit Lies in Wait"
+  - id: great_monster_in_wait
+    title: "Great Monster in Wait"
     path: "A Great Spirit Lies in Wait.brstm"
     type: break
-  - id: a_monsters_presence
-    title: "A Monster's Presence"
+  - id: ominous_feelings
+    title: "Ominous Feelings"
     path: "A Monster's Presence.mp3"
     type: warning
 ...
