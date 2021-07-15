@@ -29,9 +29,9 @@ songs:
     path: "Okami - Brave Warrior Oki.brstm"
     title: "Brave Warrior Oki"
     type: betting
-  - id: twin_devils_extermination
+  - id: twin_demons_battle
     path: "Twin Devils Moshirechik and Kotanechik's Extermination.brstm"
-    title: "Twin Devils Moshirechik and Kotanechik's Extermination"
+    title: "Battle of the Twin Demons"
     type: battle
   - id: kusa_village_cursed
     path: "Kusa Village(Cursed).brstm"
